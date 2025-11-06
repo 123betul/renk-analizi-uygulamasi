@@ -18,14 +18,23 @@ Amaç, kişisel renk uyumunu kolayca öğrenmeyi sağlayan sade ve kullanıcı d
 🗂️ Dosya Yapısı
 
 proje-kökü/
+
 ── index.html       # Uygulamanın ana sayfası 
+
 ── css/
+
   ── styles.css     # Özel stil dosyası 
+  
 ── js/
+
    ── app.js        # Uygulamanın başlangıç dosyası
+   
    ── depolama.js   # LocalStorage üzerinde CRUD işlemleri
+   
    ── ui.js         # DOM render işlemleri ve modal yönetimi
+   
    ── events.js     # Olay dinleyicilerini tanımlar
+   
 ── README.md        # Proje açıklama dosyası
 
 
