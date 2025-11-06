@@ -1,10 +1,12 @@
 🎨 Kişiye Özel Renk Analizi Uygulaması
+
 Bu proje, kullanıcıların göz, saç ve ten renklerine göre kendilerine en çok yakışan renkleri analiz eden bir web uygulamasıdır.  
 Uygulama, kullanıcının girdiği verileri değerlendirerek uygun renk paletlerini ve kaçınılması gereken renkleri önerir.  
 Amaç, kişisel renk uyumunu kolayca öğrenmeyi sağlayan sade ve kullanıcı dostu bir araç geliştirmektir.
 
 
 🌈 Özellikler
+
  * Kullanıcı girişi — Göz rengi, saç rengi ve ten rengi bilgileri girilebilir.
  * Renk analizi algoritması — Girilen verilere göre kişiye özel renk paleti oluşturur.
  * Uygun olmayan renkleri belirtme — Kullanıcının kaçınması gereken tonları gösterir.
@@ -14,6 +16,7 @@ Amaç, kişisel renk uyumunu kolayca öğrenmeyi sağlayan sade ve kullanıcı d
 
 
 🗂️ Dosya Yapısı
+
 proje-kökü/
 ── index.html       # Uygulamanın ana sayfası 
 ── css/
@@ -27,6 +30,7 @@ proje-kökü/
 
 
 ⚙️ Kurulum ve Kullanım
+
 1) Projeyi indirin veya klonlayın.
 2) index.html dosyasını tarayıcıda açın.
 3) Göz, saç ve ten renginizi girin.
@@ -36,6 +40,7 @@ proje-kökü/
 
 
 💻 Teknolojiler
+
 * HTML5 ve CSS3 — Uygulamanın temel yapısı ve görsel tasarımı oluşturuldu.
 * Bootstrap 5 — Responsive (duyarlı) tasarım, grid yapısı ve modal pencereler için kullanıldı.
 * Vanilla JavaScript (ES6+) — Renk analizi mantığı, olay dinleyicileri ve modüler yapı bu dil ile geliştirildi.
